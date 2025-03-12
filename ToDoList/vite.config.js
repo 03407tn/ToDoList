@@ -4,5 +4,5 @@ import vue from '@vitejs/plugin-vue'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: '/todo-frontend/',  // 确保这里的名称与你的仓库名完全一致
+  base: '/ToDoList/',  // 确保这里的名称与你的仓库名完全一致
 }) 
